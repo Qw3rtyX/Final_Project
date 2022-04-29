@@ -1,0 +1,43 @@
+2022-04-01
+- Copied script starting template from D2L
+- Set up Visual Studio workspace
+
+2022-04-12
+- Filled out main
+- Read second and third def chunks of script
+
+2022-04-15
+- Researched glob method
+- Useful website: https://pynative.com/python-glob/
+- Read over next section
+
+2022-04-20
+- Added the date_time class 
+- Got Nasa API key
+
+2022-04-21
+- Created the print function in the "def print_apod_info" part
+- Completed the "def download_apod_image" section fo the script
+- Completed the "save_image_file" section of the script
+- Useful website: https://towardsdatascience.com/how-to-download-an-image-using-python-38a75cfa21c
+
+2022-04-26
+- Deleted entire script and had to restart (obviously did not mean to delete it, 
+                                             was user error of course...)
+- Completed up to def print_apod_info
+
+2022-04-27
+- Finished both the "def download_apod_image" and "def save_image_file" sections
+- Found a different helpful link than before: https://www.adamsmith.haus/python/answers/how-to-download-an-image-using-requests-in-python
+
+2022-04-28
+- Finished entire script up until the last two defs
+
+2022-04-29
+- Finished the whole script to the best of my abilities
+- Attempted to solve errors
+- Had issues with GitHub Desktop but found a way around them
+
+Considering the issues I had with having to remake the majority of the script,
+it is not how it would have been if it had not been deleted. I was not able to 
+put any more effort into it than I did however, because of my five other classes.
